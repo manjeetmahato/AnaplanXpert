@@ -1,0 +1,16 @@
+langchain  
+google-generativeai
+streamlit  
+python-dotenv 
+langchain_google_genai 
+langsmith
+langchain_community
+langchain_ollama
+sentence_transformers
+duckduckgo-search
+langchain-community
+transformers
+bs4
+pytesseract
+Flask 
+Pillow
